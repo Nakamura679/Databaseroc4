@@ -1,0 +1,3 @@
+ @c:\patch2\20220111_p(pro)_th_ro1_live_1642036310/client/System/itemInfo.lua
+
+<div id="preview-all"><div class="button" onclick="Wb('W',0)">Show all readable texts in this file...</div></div><div id="preview-all"><div class="button" onclick="Wb('B',0)">Show all bytes of this binary file...</div></div>
